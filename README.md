@@ -2,7 +2,7 @@ Carlos Mario Garcia
 Citi Bike Analysis
 05/04/2024
 ________
-The popularity of Citi Bike's start stations around Jersey City and New York City's West Village area stems from several factors. 
+The popularity of Citi Bike's start stations around Jersey City and New York City's surrounding area stems from several factors. 
 These areas have great accessibility with well-connected bike lanes; providing scenic routes near the Hudson River. 
 Additionally, the urban landscape is full of local attractions, restaurants, and businesses, making it an ideal destination for tourists and locals.
 The popularity of Citi Bike's end stations can be attributed to their convenient transportation options and scenic architecture, offering riders easy access to explore. 
