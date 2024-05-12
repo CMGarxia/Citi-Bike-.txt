@@ -1,6 +1,8 @@
 Carlos Mario Garcia 
 Citi Bike Analysis
 05/04/2024
+
+Each visualization presented in these dashboards is interactive, allowing users to explore the data. Users can hover over data points to view detailed information such as zipcodes, station ids and names. Users can click on elements to filter the data, and interact with filters and can customize the view by zooming in and out. This  enhances the experience of research by enabling them to gain deeper insights and answer specific questions by manipulating the visualizations, making it easier for users to understand the data and find meaningful insights.
 ________
 The popularity of Citi Bike's start stations around Jersey City and New York City's surrounding area stems from several factors. 
 These areas have great accessibility with well-connected bike lanes; providing scenic routes near the Hudson River. 
@@ -11,4 +13,5 @@ The peak hours for both classic and electric bikes are at 7 am, & 4-5 pm. In the
 ________
 There is a noticeable increase in Citi Bike usage from December 2022 to July 2023, possibly due to warmer weather and vacation season, as well as effective branding and marketing over the year/s. The peak usage day was Wednesday, 7/26/23, with 4,132 trips, followed by Saturday, 7/22/23, with 3,968 trips. July is consistently busy, but there is a trend of decreased usage come August, signaling the end of summer. The peak hours for Citi Bike usage in December are between 3-5 pm, with 4 pm being the busiest hour at 4,211 trips, followed by 5 pm with 4,058 trips, and 3 pm at 3,518 trips. Another significant peak hour is at 7 am, with 3,423 trips. As mentioned before, these times align with typical work schedules, making it convenient for riders to use Citi Bikes before and after work. 
 ________
-https://public.tableau.com/views/CitiBikeDemo_17149369387990/citybikedemostory?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link 
+
+
